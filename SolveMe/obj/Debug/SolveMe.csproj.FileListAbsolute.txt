@@ -1,0 +1,12 @@
+C:\Users\tqvinh\source\repos\SolveMe\SolveMe\obj\Debug\SolveMe.csprojAssemblyReference.cache
+C:\Users\tqvinh\source\repos\SolveMe\SolveMe\obj\Debug\SolveMe.Properties.Resources.resources
+C:\Users\tqvinh\source\repos\SolveMe\SolveMe\obj\Debug\SolveMe.csproj.GenerateResource.cache
+C:\Users\tqvinh\source\repos\SolveMe\SolveMe\bin\Debug\SolveMe.exe.config
+C:\Users\tqvinh\source\repos\SolveMe\SolveMe\bin\Debug\SolveMe.exe
+C:\Users\tqvinh\source\repos\SolveMe\SolveMe\bin\Debug\SolveMe.pdb
+C:\Users\tqvinh\source\repos\SolveMe\SolveMe\bin\Debug\TwoPhaseSolver.dll
+C:\Users\tqvinh\source\repos\SolveMe\SolveMe\bin\Debug\TwoPhaseSolver.pdb
+C:\Users\tqvinh\source\repos\SolveMe\SolveMe\obj\Debug\SolveMe.csproj.CopyComplete
+C:\Users\tqvinh\source\repos\SolveMe\SolveMe\obj\Debug\SolveMe.exe
+C:\Users\tqvinh\source\repos\SolveMe\SolveMe\obj\Debug\SolveMe.pdb
+C:\Users\tqvinh\source\repos\SolveMe\SolveMe\obj\Debug\SolveMe.MainForm.resources
